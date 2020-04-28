@@ -1,0 +1,8 @@
+myauto_cache/
+.cache/
+go.sum
+MyAutoScrapper
+MyAutoScraper
+images/
+data.csv
+MyAutoData/
